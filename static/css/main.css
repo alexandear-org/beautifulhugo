@@ -135,7 +135,7 @@ img {
 }
 @media (prefers-color-scheme: dark) {
 figure:not(.dark) img, img.white {
-  background-color: white;
+  background-color: transparent;
 }
 }
 
